@@ -12,6 +12,7 @@ I mainly work with:
 - 🌐 HTML5
 - 🎨 CSS3
 - ⚙️ JavaScript (Vanilla + Node.js)
+- Lua (roblox)
 
 I enjoy turning ideas into real, usable projects and constantly improving my development skills.
 
