@@ -66,7 +66,7 @@ Currently, I’m learning:
 - GitHub: [Snow6313](https://github.com/Snow6313)
 - Discord: Snow6313
 - X/Twitter: [Snow6313](https://x.com/snow6313)
-- Roblox: [Snow6313]([https://github.com/Snow6313](https://www.roblox.com/users/1120888614/profile)
+- Roblox: [Snow6313]([https://x.com/snow6313](https://www.roblox.com/users/1120888614/profile)
 ---
 
 ## ⚡ Fun Fact
