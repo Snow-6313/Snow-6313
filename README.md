@@ -8,12 +8,16 @@
 
 Howdy! I’m **Snow6313**, a first-place **FBLA State winner** with a passion for building clean, efficient, and functional web applications.
 
-I mainly work with:
+I primarily work with:
 - 🌐 HTML5
 - 🎨 CSS3
 - ⚙️ JavaScript (Vanilla + Node.js)
 
-I enjoy turning ideas into real, usable projects and constantly improving my development skills.
+I enjoy turning ideas into practical, user-friendly projects while continuously improving my development skills.
+
+Currently, I’m learning:
+- 🐍 Python
+- 🎨 SASS
 
 ---
 
