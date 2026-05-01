@@ -47,10 +47,11 @@ Currently, I’m learning:
 
 ---
 
-## 🏅 Achievements
+## 🏅 Past Work / Achievements
 
-- 🥇 1st Place — FBLA State Competition
-- 💡 Actively building and experimenting with web projects
+- 🥇 1st Place — FBLA State Competition  
+- 🍩Built Glazed Over Mini Donuts Website
+- ⚙️ Working on multiple web-based projects
 
 ---
 
