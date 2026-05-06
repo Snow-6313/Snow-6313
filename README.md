@@ -30,11 +30,22 @@ Currently, I’m learning:
 
 **Backend**
 - Node.js
+- Express.js
+- Noblox.js
+- Discord.js
+- Mongoose
+- Axios
+- CORS
+- Helmet
+- Express Rate Limit
+- Dotenv
+- MS (time parsing)
 
 **Tools & Platforms**
 - Git & GitHub
 - VS Code
 - Chrome DevTools
+- Nodemon
 
 ---
 
