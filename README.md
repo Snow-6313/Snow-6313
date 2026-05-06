@@ -29,16 +29,16 @@ Currently, I’m learning:
 - JavaScript (Vanilla)
 
 **Backend**
-- Node.js
-- Express.js
-- Noblox.js
-- Discord.js
-- Mongoose
-- Axios
-- CORS
-- Helmet
-- Express Rate Limit
-- Dotenv
+- [Node.js](https://nodejs.org/en)
+- [Express.js](https://expressjs.com)
+- [Noblox.js](https://noblox.js.org)
+- [Discord.js](https://discord.js.org)
+- [Mongoose](https://www.mongodb.com/cloud/atlas/register)
+- [Axios](https://github.com/axios/axios)
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)
+- [Helmet](https://helmetjs.github.io)
+- [Express Rate Limit](https://www.npmjs.com/package/express-rate-limit)
+- [Dotenv](https://github.com/motdotla/dotenv)
 - MS (time parsing)
 
 **Tools & Platforms**
