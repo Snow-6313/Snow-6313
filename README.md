@@ -51,6 +51,7 @@ Currently, I’m learning:
 
 - 🥇 1st Place — FBLA State Competition  
 - 🍩Built Glazed Over Mini Donuts Website
+- ❤️Built Roblox Ranking service (RankPro) webiste and backend
 - ⚙️ Working on multiple web-based projects
 
 ---
